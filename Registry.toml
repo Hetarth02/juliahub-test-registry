@@ -1,0 +1,9 @@
+name = "juliahub-test-registry"
+uuid = "78cb13ad-96fd-4bc6-b774-a8c1b86a0eb7"
+repo = ""
+
+description = """
+juliahub-test-registry
+"""
+
+[packages]
